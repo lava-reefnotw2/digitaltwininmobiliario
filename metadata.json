@@ -1,0 +1,6 @@
+{
+  "name": "Digital Twin Comunitario - Vivienda Social",
+  "description": "Plataforma de co-diseño espacial y simulación participativa de vivienda social y urbanismo con GIS, Three.js 3D, evaluación multicriterio AHP y GeoDjango.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
