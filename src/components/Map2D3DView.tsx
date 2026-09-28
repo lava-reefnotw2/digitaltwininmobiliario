@@ -28,6 +28,7 @@ import {
 } from 'lucide-react';
 import { PilotCity, UrbanElement, ScenarioType, GISLayerState, UrbanElementType, Language, ThemeMode } from '../types';
 import { ThemeToggle } from './ThemeToggle';
+import { UrbanCopilotChat } from './UrbanCopilotChat';
 
 interface Map2D3DViewProps {
   currentCity: PilotCity;
@@ -71,9 +72,12 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
   const [isPlacingMode, setIsPlacingMode] = useState<boolean>(false);
   const [selectedPlacementType, setSelectedPlacementType] = useState<UrbanElementType>('vivienda_social');
   const [isRelocatingSelected, setIsRelocatingSelected] = useState<boolean>(false);
+  const [isCopilotOpen, setIsCopilotOpen] = useState<boolean>(false);
   const [isDraggingSelectedElement, setIsDraggingSelectedElement] = useState<boolean>(false);
   const [hoveredElementId, setHoveredElementId] = useState<string | null>(null);
   const [, setZoom2DRev] = useState<number>(0);
+  const [showCtrlMessage, setShowCtrlMessage] = useState<boolean>(false);
+  const ctrlMessageTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   // Multi-point Road / Track drafting & waypoint editing state
   const [roadPoints, setRoadPoints] = useState<[number, number][]>([]);
@@ -358,12 +362,23 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
 
     // Native Non-Passive Wheel Event Listener with Smooth Target Zoom
     const handleNativeWheel = (e: WheelEvent) => {
-      e.preventDefault();
-      e.stopPropagation();
-      targetSphericalRef.current.radius = Math.max(
-        80,
-        Math.min(1000, targetSphericalRef.current.radius + e.deltaY * 0.45)
-      );
+      if (e.ctrlKey || e.metaKey) {
+        e.preventDefault();
+        e.stopPropagation();
+        targetSphericalRef.current.radius = Math.max(
+          80,
+          Math.min(1000, targetSphericalRef.current.radius + e.deltaY * 0.45)
+        );
+        setShowCtrlMessage(false);
+      } else {
+        setShowCtrlMessage(true);
+        if (ctrlMessageTimeoutRef.current) {
+          clearTimeout(ctrlMessageTimeoutRef.current);
+        }
+        ctrlMessageTimeoutRef.current = setTimeout(() => {
+          setShowCtrlMessage(false);
+        }, 1500);
+      }
     };
 
     canvas.addEventListener('wheel', handleNativeWheel, { passive: false });
@@ -2634,11 +2649,22 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
 
     // Native non-passive zoom on 2D canvas
     const handleNative2DWheel = (e: WheelEvent) => {
-      e.preventDefault();
-      e.stopPropagation();
-      const zoomFactor = e.deltaY < 0 ? 1.15 : 0.87;
-      map2DScaleRef.current = Math.max(15000, Math.min(120000, map2DScaleRef.current * zoomFactor));
-      setZoom2DRev(prev => prev + 1);
+      if (e.ctrlKey || e.metaKey) {
+        e.preventDefault();
+        e.stopPropagation();
+        const zoomFactor = e.deltaY < 0 ? 1.15 : 0.87;
+        map2DScaleRef.current = Math.max(15000, Math.min(120000, map2DScaleRef.current * zoomFactor));
+        setZoom2DRev(prev => prev + 1);
+        setShowCtrlMessage(false);
+      } else {
+        setShowCtrlMessage(true);
+        if (ctrlMessageTimeoutRef.current) {
+          clearTimeout(ctrlMessageTimeoutRef.current);
+        }
+        ctrlMessageTimeoutRef.current = setTimeout(() => {
+          setShowCtrlMessage(false);
+        }, 1500);
+      }
     };
 
     canvas.addEventListener('wheel', handleNative2DWheel, { passive: false });
@@ -2649,6 +2675,16 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
 
   return (
     <div className="relative w-full h-[620px] bg-slate-950/80 backdrop-blur-md rounded-2xl overflow-hidden border border-slate-800/90 shadow-2xl flex flex-col">
+      {/* Scroll to Zoom Overlay Message */}
+      <div 
+        className={`absolute inset-0 z-50 flex items-center justify-center pointer-events-none transition-opacity duration-300 ${showCtrlMessage ? 'opacity-100' : 'opacity-0'}`}
+      >
+        <div className="bg-slate-900/90 text-slate-100 px-6 py-3 rounded-2xl border border-slate-700 shadow-2xl flex items-center gap-3">
+          <span className="text-xl font-bold bg-slate-800 px-3 py-1 rounded-xl shadow-inner border border-slate-700">Ctrl</span>
+          <span className="text-sm font-semibold">{language === 'es' ? '+ Scroll para acercar/alejar el mapa' : ' + Scroll to zoom the map'}</span>
+        </div>
+      </div>
+
       {/* Top Map Toolbar: View Mode + Sun Angle + Layer Toggles + Add Element */}
       <div className="absolute top-3 left-3 right-3 z-20 flex flex-wrap items-center justify-between gap-2 pointer-events-none">
         {/* Left: View Mode Switches, Recenter & Day/Night Toggle */}
@@ -2838,6 +2874,20 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
             >
               <Plus className="w-3.5 h-3.5" />
               <span>{isPlacingMode ? (selectedPlacementType === 'pista_vial' ? 'Traza puntos' : 'Haz clic en el mapa') : '+ Añadir'}</span>
+            </button>
+
+            {/* AI Copilot Toggle Button in Toolbar */}
+            <button
+              id="toggle-copilot-header-btn"
+              onClick={() => setIsCopilotOpen(!isCopilotOpen)}
+              className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl text-xs font-bold transition-all border ${
+                isCopilotOpen
+                  ? 'bg-indigo-600/30 text-indigo-300 border-indigo-500/50 shadow-sm shadow-indigo-950/40'
+                  : 'bg-indigo-600/20 hover:bg-indigo-600/30 text-indigo-300 border-indigo-500/30'
+              }`}
+            >
+              <Sparkles className="w-3.5 h-3.5 text-indigo-400" />
+              <span>Asistente IA</span>
             </button>
           </div>
         </div>
@@ -3493,6 +3543,38 @@ export const Map2D3DView: React.FC<Map2D3DViewProps> = ({
             </button>
           </div>
         )}
+
+        {/* Floating Copilot Launcher Button */}
+        {!isCopilotOpen && (
+          <button
+            id="open-urban-copilot-floating-btn"
+            onClick={() => setIsCopilotOpen(true)}
+            className="absolute bottom-5 right-5 z-20 flex items-center gap-2 px-4 py-2.5 rounded-2xl bg-gradient-to-r from-indigo-600 via-indigo-500 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-extrabold text-xs shadow-2xl shadow-indigo-950/80 border border-indigo-400/40 transition-all hover:scale-105 active:scale-95 group animate-in fade-in"
+          >
+            <span className="p-1 rounded-lg bg-indigo-900/60 text-amber-300 group-hover:rotate-12 transition-transform">
+              <Sparkles className="w-4 h-4 animate-pulse" />
+            </span>
+            <span>Copiloto LangChain</span>
+            <span className="text-[10px] bg-white/20 text-white px-1.5 py-0.5 rounded-md font-mono">
+              AI
+            </span>
+          </button>
+        )}
+
+        {/* LangChain Urban Copilot Chat Drawer */}
+        <UrbanCopilotChat
+          currentCity={currentCity}
+          activeScenario={activeScenario}
+          elements={elements}
+          selectedElement={selectedElement}
+          onAddElementAtCoords={onAddElementAtCoords}
+          onUpdateElement={onUpdateElement}
+          onSelectElement={onSelectElement}
+          onToggleLayer={onToggleLayer}
+          layerState={layerState}
+          isOpen={isCopilotOpen}
+          onClose={() => setIsCopilotOpen(false)}
+        />
       </div>
 
       {/* Footer Bar: Real GPS Coordinates & Compass Indicator */}

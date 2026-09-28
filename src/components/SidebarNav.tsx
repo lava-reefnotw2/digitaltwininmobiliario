@@ -19,6 +19,7 @@ import {
   Compass,
   ArrowUp,
   Save,
+  Workflow,
 } from 'lucide-react';
 import { PilotCity, PilotCityId, ScenarioType, UserRole, Language, SavedProposalProfile, ThemeMode } from '../types';
 import { PILOT_CITIES } from '../data/pilotCities';
@@ -120,7 +121,9 @@ export const SidebarNav: React.FC<SidebarNavProps> = ({
     { id: 'services', label: language === 'es' ? 'Servicios & 15min' : language === 'pt' ? 'Serviços & 15min' : 'Services & 15min', icon: Footprints, badge: 'Isócronas' },
     { id: 'deliberation', label: language === 'es' ? 'Votación & Foros' : language === 'pt' ? 'Votação e Fórum' : 'Voting & Forum', icon: Users, badge: 'AHP' },
     { id: 'evaluation', label: language === 'es' ? 'Evaluación Multicriterio' : language === 'pt' ? 'Avaliação Multicritério' : 'Multi-Criteria', icon: BarChart3, badge: 'KPIs' },
-    { id: 'scaffolding', label: language === 'es' ? 'Data Hub & Backend' : language === 'pt' ? 'Data Hub e API' : 'Data Hub & API', icon: Database, badge: 'GeoDjango' }
+    { id: 'scaffolding', label: language === 'es' ? 'Data Hub & Backend' : language === 'pt' ? 'Data Hub e API' : 'Data Hub & API', icon: Database, badge: 'GeoDjango' },
+    { id: 'ai-engine', label: language === 'es' ? 'Motor de Inteligencia Artificial' : language === 'pt' ? 'Motor de IA' : 'AI Engine', icon: Sparkles, badge: 'ML' },
+    { id: 'langflow-studio', label: language === 'es' ? 'Langflow & Agentes AI' : language === 'pt' ? 'Langflow e Agentes IA' : 'Langflow & AI Agents', icon: Workflow, badge: 'Low-Code' }
   ];
 
   return (

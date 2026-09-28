@@ -30,6 +30,16 @@ Plataforma integral de **co-diseño espacial, modelado 3D y simulación particip
 - Persistencia automática de la preferencia en `localStorage`.
 - Adaptación dinámica de iluminación diurna, atmósfera Three.js y mapas GIS.
 
+### 🤖 6. Copiloto LangChain Integrado en Mapa & Relieve 3D
+- **Asistente Spatial ReAct en Tiempo Real:** Drawer interactivo flotante en el visor 3D que comprende el contexto de la ciudad piloto y el escenario activo.
+- **RAG Normativo Inmobiliario:** Consulta en tiempo real de ordenanzas municipales (PLANMET 2040, PDM Arequipa, PLANDET Trujillo), normas sismorresistentes y de habitabilidad (RNE A.020), y mapas de riesgo CENEPRED.
+- **Spatial Tool Calling sobre Three.js:** El asistente evalúa pendientes y accesibilidad peatonal a 15 min, proponiendo equipamientos (salud, escuelas, parques bioclimáticos, vivienda incremental) con inserción directa sobre el modelo 3D.
+
+### 🔀 7. Langflow AI Studio & Orquestador Low-Code
+- **Lienzo Visual de Flujos:** Interfaz gráfica basada en nodos conectables (Inputs, Vector Stores, Models, Spatial Tools y 3D Outputs).
+- **Flujos Preconfigurados:** Viabilidad y riesgo geológico de lote, optimizador de equipamiento comunal e isócronas, y síntesis de deliberación vecinal para matrices AHP.
+- **Exportación & Despliegue Backend:** Exportación directa a formato JSON compatible con Langflow 1.0+, scaffolding con código Python (`langchain`) y `docker-compose.langflow.yml` con base de datos vectorial PostgreSQL + pgvector.
+
 ---
 
 ## 🛠️ Tecnologías Utilizadas

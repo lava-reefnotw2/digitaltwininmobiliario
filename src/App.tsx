@@ -7,6 +7,8 @@ import { CommunityParticipationPanel } from './components/CommunityParticipation
 import { MultiCriteriaEvaluation } from './components/MultiCriteriaEvaluation';
 import { BackendScaffoldingViewer } from './components/BackendScaffoldingViewer';
 import { AdminAndDataHub } from './components/AdminAndDataHub';
+import { AIEnginePanel } from './components/AIEnginePanel';
+import { LangflowStudio } from './components/LangflowStudio';
 import { SaveProposalModal } from './components/SaveProposalModal';
 import { ThemeToggle } from './components/ThemeToggle';
 
@@ -841,6 +843,24 @@ export default function App() {
               language={language}
             />
           </div>
+        )}
+
+        {/* Tab 7: AI Engine */}
+        {activeTab === 'ai-engine' && (
+          <AIEnginePanel
+            city={currentCity}
+            scenario={activeScenarioObject}
+            language={language}
+          />
+        )}
+
+        {/* Tab 8: Langflow & AI Agents Studio */}
+        {activeTab === 'langflow-studio' && (
+          <LangflowStudio
+            currentCity={currentCity}
+            activeScenario={activeScenario}
+            language={language}
+          />
         )}
       </main>
       </div>

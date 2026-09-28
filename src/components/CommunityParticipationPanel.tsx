@@ -491,7 +491,7 @@ export const CommunityParticipationPanel: React.FC<CommunityParticipationPanelPr
           <div className="grid grid-cols-1 lg:grid-cols-5 gap-3">
             {INITIAL_AHP_CRITERIA.map((crit, idx) => (
               <div key={idx} className="bg-slate-950/80 p-4 rounded-2xl border border-slate-800 text-center space-y-1 shadow-inner hover:border-slate-700 transition-all">
-                <span className="text-[11px] text-slate-400 font-semibold line-clamp-2 min-h-[32px]">{crit}</span>
+                <span className="text-[11px] text-slate-400 font-semibold line-clamp-2 min-h-[32px]">{crit.name || crit}</span>
                 <span className="text-2xl font-extrabold text-emerald-400 font-mono block">
                   {Math.round((ahpResult.weights[idx] || 0) * 100)}%
                 </span>
