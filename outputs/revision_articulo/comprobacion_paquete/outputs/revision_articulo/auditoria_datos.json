@@ -1,0 +1,10 @@
+{
+  "filas": 8028,
+  "coincidencia_con_reporte_xlsx": true,
+  "totales": {
+    "viviendas_inei": 314581,
+    "hogares_inei": 274657,
+    "poblacion_inei": 1038495
+  },
+  "sha256_original": "2ba1e56f756a054f52dd8ffc977cd20c9bccfe1caf985680411e41c8753b25e9"
+}

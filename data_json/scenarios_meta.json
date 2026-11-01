@@ -1,0 +1,37 @@
+{
+  "base": {
+    "name": "1. Base (Actual)",
+    "shortDesc": "Situación original extraída de satélite GHSL y OSM.",
+    "author": "AI Studio Data Hub"
+  },
+  "municipal": {
+    "name": "2. Municipal",
+    "shortDesc": "Enfoque técnico top-down priorizando densidad vial y vivienda.",
+    "author": "Sec. Planificación"
+  },
+  "comunitario": {
+    "name": "3. Comunitaria",
+    "shortDesc": "Enfoque vecinal priorizando ecología, huertos y centros sociales.",
+    "author": "Junta de Vecinos"
+  },
+  "hibrido": {
+    "name": "4. Híbrido (Co-Diseño)",
+    "shortDesc": "Resolución AHP óptima equilibrando rentabilidad y equidad espacial.",
+    "author": "Algoritmo AHP/ELECTRE"
+  },
+  "custom_1": {
+    "name": "Perfil Propuesta 1",
+    "shortDesc": "Propuesta personalizada de co-diseño.",
+    "author": "Usuario"
+  },
+  "custom_2": {
+    "name": "Perfil Propuesta 2",
+    "shortDesc": "Propuesta personalizada de co-diseño.",
+    "author": "Usuario"
+  },
+  "custom_3": {
+    "name": "Perfil Propuesta 3",
+    "shortDesc": "Propuesta personalizada de co-diseño.",
+    "author": "Usuario"
+  }
+}

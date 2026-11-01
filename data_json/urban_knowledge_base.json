@@ -1,0 +1,90 @@
+[
+  {
+    "id": "rne-a020-vivienda",
+    "cityId": "all",
+    "category": "habitabilidad",
+    "title": "Norma Técnica A.020: Vivienda Colectiva e Incremental",
+    "codeReference": "RNE - D.S. N° 011-2006-VIVIENDA / Actualización 2021",
+    "summary": "Establece los estándares mínimos de habitabilidad, iluminación cenital y ventilación cruzada obligatoria en módulos de vivienda social.",
+    "requirements": [
+      "Área mínima techada de vivienda unifamiliar básica: 42 m² (ampliable a 75 m² en vivienda incremental)",
+      "Altura libre mínima de piso a techo: 2.30 m en climas templados/costeros; 2.50 m en valles interandinos",
+      "Ventilación cruzada: vanos de ventilación deben representar mínimo el 10% del área útil del ambiente",
+      "Densidad neta máxima recomendada en hábitats populares con consolidación: 450 a 650 hab/ha"
+    ],
+    "maxSlopePermittedPercent": 25
+  },
+  {
+    "id": "cenepred-sjl-quebrada",
+    "cityId": "lima",
+    "category": "riesgo_geologico",
+    "title": "Evaluación de Riesgo por Movimientos en Masa - Quebrada Huáscar (SJL)",
+    "codeReference": "CENEPRED / INDECI Informe Técnico N° 044-2022",
+    "summary": "Delimitación de áreas de muy alto riesgo no mitigable por flujos de detritos y desprendimiento de rocas en laderas escarpadas de San Juan de Lurigancho.",
+    "requirements": [
+      "Pendientes mayores a 30%: Prohibida la construcción de viviendas sin obras mayores de andenería estructural y muros de contención ciclópeos",
+      "Franja de amortiguamiento de 15 metros en el lecho central de la torrentera seca",
+      "Prioridad de asignación para reforestación con especies xerófitas (molle costeño, tara) para contención de taludes",
+      "Vías de acceso vehicular no deben superar el 12% de pendiente longitudinal continua"
+    ],
+    "maxSlopePermittedPercent": 30
+  },
+  {
+    "id": "pdu-lima-este-equipamiento",
+    "cityId": "lima",
+    "category": "zonificacion",
+    "title": "Plan de Desarrollo Metropolitano de Lima (PLANMET 2040) - Subsector Este",
+    "codeReference": "Ordenanza Metropolitana N° 2288-MML",
+    "summary": "Directrices de equipamiento social y áreas verdes públicas para Lima Este.",
+    "requirements": [
+      "Dotación mínima de áreas verdes: 9.0 m² por habitante según meta OMS / MINAM",
+      "Radio de servicio de posta de salud tipo I-2: 800 a 1,200 metros (10 a 15 minutos de caminata a pie)",
+      "Módulo educativo inicial/primaria: 1 aula por cada 120 habitantes en edad escolar",
+      "Retiro municipal frontal mínimo de 3.00 m en vías colectoras"
+    ],
+    "maxSlopePermittedPercent": 20
+  },
+  {
+    "id": "pdm-arequipa-torrenteras",
+    "cityId": "arequipa",
+    "category": "riesgo_geologico",
+    "title": "Plan de Desarrollo Metropolitano de Arequipa - Mitigación en Torrenteras",
+    "codeReference": "PDM Arequipa / IMPLA 2022-2035",
+    "summary": "Restricciones de edificación en fajas marginales de torrenteras volcánicas y laderas del Misti/Chachani.",
+    "requirements": [
+      "Respeto de faja marginal de 25m a cada lado del eje de cauce de torrentera",
+      "Diseño sismorresistente con factor de zona Z4 (0.45g) según Norma E.030",
+      "Construcción de terrazas de piedra y gaviones en desniveles mayores al 18%"
+    ],
+    "maxSlopePermittedPercent": 22
+  },
+  {
+    "id": "pdu-trujillo-salaberry",
+    "cityId": "trujillo",
+    "category": "zonificacion",
+    "title": "Plan Urbano de Trujillo - Zonas de Amortiguamiento y Drenaje Pluvial",
+    "codeReference": "PLANDET - Municipalidad Provincial de Trujillo",
+    "summary": "Estrategias de densificación controlada y drenaje en sectores vulnerables a inundaciones del Fenómeno El Niño.",
+    "requirements": [
+      "Obligatoriedad de techos con pendientes mínimas del 5% para evacuación pluvial",
+      "Preservación de corredores biológicos hacia la campiña de Moche",
+      "Isócronas peatonales máximas de 12 minutos a puntos de transporte masivo en avenidas metropolitanas"
+    ],
+    "maxSlopePermittedPercent": 15
+  },
+  {
+    "id": "programa-techo-propio-bono",
+    "cityId": "all",
+    "category": "financiamiento",
+    "title": "Bono Familiar Habitacional (BFH) - Techo Propio / Sitio Propio",
+    "codeReference": "Fondo MIVIVIENDA / Ministerio de Vivienda del Perú",
+    "summary": "Subsidio directo no reembolsable del Estado para familias en situación de pobreza y vulnerabilidad urbana.",
+    "requirements": [
+      "Modalidad Construcción en Sitio Propio: Subsidio de aprox. S/ 30,900 (~$8,300 USD) para módulo de 35 a 45 m²",
+      "Requisito: Título de propiedad o constancia de posesión municipal reconocida",
+      "Terreno debe estar fuera de zonas de riesgo geológico muy alto no mitigable",
+      "El proyecto debe contemplar conexiones intradomiciliarias de agua potable y saneamiento"
+    ],
+    "maxSlopePermittedPercent": 25
+  }
+]

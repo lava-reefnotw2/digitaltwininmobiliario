@@ -1,0 +1,41 @@
+manzana_id,distrito,ciudad,area_lote_m2,densidad_hab_ha,distancia_via_principal_m,distancia_salud_m,distancia_escuela_m,pendiente_terreno_pct,indice_vulnerabilidad_cenepred,area_verde_per_capita_m2,estrato_socioeconomico,material_paredes,antiguedad_construccion_anios,valor_suelo_usd_m2,viabilidad_vivienda_pct,riesgo_deslizamiento
+MZ-SJL-0001,San Juan de Lurigancho,Lima,145.0,380.0,120.0,450.0,280.0,16.5,42.0,1.2,Bajo,Ladrillo y Cemento,14,145.5,78.5,Medio
+MZ-SJL-0002,San Juan de Lurigancho,Lima,120.0,420.0,350.0,820.0,540.0,28.4,68.0,0.6,Muy Bajo,Adobe y Madera,8,82.0,46.0,Alto
+MZ-SJL-0003,San Juan de Lurigancho,Lima,160.0,310.0,80.0,320.0,210.0,11.2,35.0,2.4,Medio-Bajo,Concreto Armado,18,185.0,86.0,Bajo
+MZ-SJL-0004,San Juan de Lurigancho,Lima,98.0,480.0,520.0,1150.0,780.0,34.8,84.0,0.3,Muy Bajo,Pirca y Madera,5,54.0,25.0,Muy Alto
+MZ-SJL-0005,San Juan de Lurigancho,Lima,135.0,360.0,210.0,600.0,410.0,22.0,52.0,1.5,Bajo,Ladrillo Confinado,12,118.0,65.0,Medio
+MZ-SJL-0006,San Juan de Lurigancho,Lima,150.0,290.0,140.0,480.0,350.0,14.5,38.0,2.8,Medio-Bajo,Ladrillo y Cemento,20,162.0,82.0,Bajo
+MZ-SJL-0007,San Juan de Lurigancho,Lima,110.0,440.0,410.0,950.0,620.0,31.2,74.0,0.5,Muy Bajo,Madera y Triplay,6,68.0,35.0,Muy Alto
+MZ-SJL-0008,San Juan de Lurigancho,Lima,175.0,270.0,60.0,280.0,190.0,8.5,28.0,3.5,Medio,Concreto Armado,22,210.0,91.0,Bajo
+MZ-SJL-0009,San Juan de Lurigancho,Lima,130.0,390.0,260.0,710.0,490.0,24.6,59.0,0.9,Bajo,Ladrillo Artesanal,10,98.0,58.0,Alto
+MZ-SJL-0010,San Juan de Lurigancho,Lima,105.0,460.0,480.0,1080.0,710.0,33.0,81.0,0.4,Muy Bajo,Estéril / Chapa,4,58.0,28.0,Muy Alto
+MZ-SJL-0011,San Juan de Lurigancho,Lima,140.0,340.0,170.0,520.0,320.0,17.8,45.0,1.8,Bajo,Ladrillo Confinado,15,138.0,75.0,Medio
+MZ-SJL-0012,San Juan de Lurigancho,Lima,125.0,410.0,310.0,780.0,510.0,26.5,64.0,0.8,Bajo,Bloque de Concreto,9,88.0,52.0,Alto
+MZ-SJL-0013,San Juan de Lurigancho,Lima,180.0,250.0,45.0,240.0,160.0,6.2,22.0,4.2,Medio,Concreto Armado,25,235.0,95.0,Bajo
+MZ-SJL-0014,San Juan de Lurigancho,Lima,115.0,430.0,380.0,890.0,580.0,29.8,71.0,0.6,Muy Bajo,Madera y Planchas,7,72.0,39.0,Alto
+MZ-SJL-0015,San Juan de Lurigancho,Lima,155.0,320.0,110.0,390.0,260.0,13.0,34.0,2.1,Medio-Bajo,Ladrillo y Cemento,17,174.0,84.0,Bajo
+MZ-SJL-0016,San Juan de Lurigancho,Lima,92.0,490.0,560.0,1220.0,840.0,36.5,88.0,0.2,Muy Bajo,Pircas precarias,3,48.0,21.0,Muy Alto
+MZ-SJL-0017,San Juan de Lurigancho,Lima,142.0,350.0,190.0,560.0,380.0,19.4,49.0,1.4,Bajo,Ladrillo Confinado,13,126.0,70.0,Medio
+MZ-SJL-0018,San Juan de Lurigancho,Lima,168.0,280.0,90.0,350.0,230.0,10.0,31.0,3.0,Medio-Bajo,Concreto Armado,19,192.0,88.0,Bajo
+MZ-SJL-0019,San Juan de Lurigancho,Lima,122.0,405.0,290.0,740.0,480.0,25.2,62.0,0.7,Bajo,Ladrillo Artesanal,11,94.0,54.0,Alto
+MZ-SJL-0020,San Juan de Lurigancho,Lima,102.0,470.0,495.0,1120.0,730.0,33.5,82.0,0.3,Muy Bajo,Madera / Planchas,5,56.0,26.0,Muy Alto
+MZ-ARE-0001,Cerro Colorado,Arequipa,190.0,260.0,95.0,380.0,260.0,14.0,32.0,3.2,Medio-Bajo,Sillar Volcánico,22,178.0,85.0,Bajo
+MZ-ARE-0002,Cerro Colorado,Arequipa,140.0,330.0,240.0,650.0,420.0,21.5,48.0,1.8,Bajo,Sillar y Concreto,14,124.0,71.0,Medio
+MZ-ARE-0003,Cerro Colorado,Arequipa,115.0,390.0,420.0,980.0,680.0,29.0,66.0,0.8,Muy Bajo,Bloque de Piedra,8,82.0,48.0,Alto
+MZ-ARE-0004,Cerro Colorado,Arequipa,210.0,220.0,55.0,260.0,180.0,9.0,24.0,4.5,Medio,Concreto y Sillar,26,220.0,94.0,Bajo
+MZ-ARE-0005,Cerro Colorado,Arequipa,95.0,440.0,510.0,1180.0,790.0,35.0,83.0,0.4,Muy Bajo,Pirca y Madera,4,55.0,24.0,Muy Alto
+MZ-ARE-0006,Cerro Colorado,Arequipa,165.0,290.0,150.0,490.0,310.0,17.2,39.0,2.5,Bajo,Sillar Labrado,18,155.0,80.0,Bajo
+MZ-ARE-0007,Cerro Colorado,Arequipa,130.0,360.0,290.0,760.0,510.0,24.0,57.0,1.2,Bajo,Ladrillo y Sillar,12,105.0,61.0,Medio
+MZ-ARE-0008,Cerro Colorado,Arequipa,108.0,420.0,460.0,1040.0,710.0,31.5,75.0,0.5,Muy Bajo,Adobe y Sillar rústico,6,68.0,37.0,Alto
+MZ-ARE-0009,Cerro Colorado,Arequipa,180.0,270.0,110.0,410.0,280.0,12.5,30.0,3.6,Medio-Bajo,Concreto Armado,20,188.0,88.0,Bajo
+MZ-ARE-0010,Cerro Colorado,Arequipa,145.0,320.0,220.0,610.0,390.0,19.0,44.0,2.0,Bajo,Sillar Estructurado,15,135.0,74.0,Medio
+MZ-TRU-0001,Alto Trujillo,Trujillo,160.0,310.0,140.0,480.0,320.0,8.2,38.0,1.5,Bajo,Ladrillo y Cemento,16,142.0,82.0,Bajo
+MZ-TRU-0002,Alto Trujillo,Trujillo,130.0,370.0,310.0,790.0,520.0,11.5,55.0,0.8,Muy Bajo,Adobe y Quincha,9,95.0,66.0,Medio
+MZ-TRU-0003,Alto Trujillo,Trujillo,110.0,420.0,470.0,1050.0,680.0,15.0,72.0,0.4,Muy Bajo,Estera y Madera,5,64.0,44.0,Alto
+MZ-TRU-0004,Alto Trujillo,Trujillo,185.0,260.0,70.0,310.0,210.0,5.0,26.0,2.6,Medio-Bajo,Concreto Armado,21,195.0,92.0,Bajo
+MZ-TRU-0005,Alto Trujillo,Trujillo,95.0,460.0,590.0,1260.0,820.0,16.8,82.0,0.2,Muy Bajo,Planchas y Palos,4,50.0,32.0,Alto
+MZ-TRU-0006,Alto Trujillo,Trujillo,150.0,330.0,190.0,570.0,380.0,9.5,42.0,1.2,Bajo,Ladrillo Confinado,14,128.0,76.0,Bajo
+MZ-TRU-0007,Alto Trujillo,Trujillo,125.0,385.0,350.0,860.0,560.0,12.8,61.0,0.7,Bajo,Ladrillo y Adobe,10,88.0,58.0,Medio
+MZ-TRU-0008,Alto Trujillo,Trujillo,170.0,285.0,110.0,410.0,270.0,6.5,31.0,2.1,Medio-Bajo,Concreto Armado,19,168.0,87.0,Bajo
+MZ-TRU-0009,Alto Trujillo,Trujillo,140.0,350.0,230.0,640.0,430.0,10.2,47.0,1.0,Bajo,Bloque de Cemento,12,112.0,70.0,Medio
+MZ-TRU-0010,Alto Trujillo,Trujillo,105.0,435.0,490.0,1100.0,720.0,15.5,76.0,0.3,Muy Bajo,Quincha y Madera,6,60.0,40.0,Alto

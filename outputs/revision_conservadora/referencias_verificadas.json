@@ -1,0 +1,4030 @@
+{
+  "10.1016/j.jum.2023.01.002": {
+    "title": [
+      "The pluralism of digital twins for urban management: Bridging theory and practice"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4931-2166",
+        "authenticated-orcid": false,
+        "given": "Ramy",
+        "family": "Al-Sehrawy",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bimal",
+        "family": "Kumar",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Richard",
+        "family": "Watson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          3
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "Journal of Urban Management"
+    ],
+    "volume": "12",
+    "issue": "1",
+    "page": "16-32",
+    "article-number": null,
+    "DOI": "10.1016/j.jum.2023.01.002",
+    "URL": "https://doi.org/10.1016/j.jum.2023.01.002"
+  },
+  "10.1177/2399808318796416": {
+    "title": [
+      "Digital twins"
+    ],
+    "author": [
+      {
+        "given": "Michael",
+        "family": "Batty",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Editor"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          9
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          10
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "45",
+    "issue": "5",
+    "page": "817-820",
+    "article-number": null,
+    "DOI": "10.1177/2399808318796416",
+    "URL": "https://doi.org/10.1177/2399808318796416"
+  },
+  "10.1007/s10462-020-09896-5": {
+    "title": [
+      "A comparative analysis of gradient boosting algorithms"
+    ],
+    "author": [
+      {
+        "given": "Candice",
+        "family": "Bentéjac",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Csörgő",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6125-6056",
+        "authenticated-orcid": false,
+        "given": "Gonzalo",
+        "family": "Martínez-Muñoz",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          24
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          8,
+          24
+        ]
+      ]
+    },
+    "container-title": [
+      "Artificial Intelligence Review"
+    ],
+    "volume": "54",
+    "issue": "3",
+    "page": "1937-1967",
+    "article-number": null,
+    "DOI": "10.1007/s10462-020-09896-5",
+    "URL": "https://doi.org/10.1007/s10462-020-09896-5"
+  },
+  "10.1023/A:1010933404324": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "10.3390/ijgi7050168": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "10.1145/2939672.2939785": {
+    "title": [
+      "XGBoost"
+    ],
+    "author": [
+      {
+        "given": "Tianqi",
+        "family": "Chen",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Washington, Seattle, WA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carlos",
+        "family": "Guestrin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Washington, Seattle, WA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          13
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          13
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2016,
+          8,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining"
+    ],
+    "volume": null,
+    "issue": null,
+    "page": "785-794",
+    "article-number": null,
+    "DOI": "10.1145/2939672.2939785",
+    "URL": "https://doi.org/10.1145/2939672.2939785"
+  },
+  "10.3390/su12062307": {
+    "title": [
+      "Urban Digital Twins for Smart Cities and Citizens: The Case Study of Herrenberg, Germany"
+    ],
+    "author": [
+      {
+        "given": "Fabian",
+        "family": "Dembski",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "High-Performance Computing Center Stuttgart (HLRS), Nobelstraße 19, 70569 Stuttgart, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0389-4527",
+        "authenticated-orcid": false,
+        "given": "Uwe",
+        "family": "Wössner",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "High-Performance Computing Center Stuttgart (HLRS), Nobelstraße 19, 70569 Stuttgart, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mike",
+        "family": "Letzgus",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Fraunhofer IAO, Smart Urban Environments, Nobelstraße 12, 70569 Stuttgart, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9625-9062",
+        "authenticated-orcid": false,
+        "given": "Michael",
+        "family": "Ruddat",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Research Center for Interdisciplinary Risk and Innovation Studies (ZIRIUS), University of Stuttgart, Seidenstraße 36, 70174 Stuttgart, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2847-4975",
+        "authenticated-orcid": false,
+        "given": "Claudia",
+        "family": "Yamu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Spatial Sciences, University of Groningen, Landleven 1, 9747AD Groningen, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          3,
+          16
+        ]
+      ]
+    },
+    "container-title": [
+      "Sustainability"
+    ],
+    "volume": "12",
+    "issue": "6",
+    "page": "2307",
+    "article-number": null,
+    "DOI": "10.3390/su12062307",
+    "URL": "https://doi.org/10.3390/su12062307"
+  },
+  "10.1080/09613218.2017.1362919": {
+    "title": [
+      "Participatory system dynamics modelling for housing, energy and wellbeing interactions"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-2264-132X",
+        "authenticated-orcid": false,
+        "given": "Sibel",
+        "family": "Eker",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "UCL Institute for Environmental Design and Engineering, Bartlett School of Environment, Energy and Resources, University College London (UCL), London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2344-7238",
+        "authenticated-orcid": false,
+        "given": "Nici",
+        "family": "Zimmermann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UCL Institute for Environmental Design and Engineering, Bartlett School of Environment, Energy and Resources, University College London (UCL), London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shane",
+        "family": "Carnohan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UCL Institute for Environmental Design and Engineering, Bartlett School of Environment, Energy and Resources, University College London (UCL), London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2173-7063",
+        "authenticated-orcid": false,
+        "given": "Mike",
+        "family": "Davies",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UCL Institute for Environmental Design and Engineering, Bartlett School of Environment, Energy and Resources, University College London (UCL), London, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          4
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2018,
+          10,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          9,
+          4
+        ]
+      ]
+    },
+    "container-title": [
+      "Building Research &amp; Information"
+    ],
+    "volume": "46",
+    "issue": "7",
+    "page": "738-754",
+    "article-number": null,
+    "DOI": "10.1080/09613218.2017.1362919",
+    "URL": "https://doi.org/10.1080/09613218.2017.1362919"
+  },
+  "10.37745/ejcsit.2013/vol13n44104112": {
+    "title": [
+      "Digital Twins and Urban Planning: Designing Smarter, More Inclusive Cities"
+    ],
+    "author": [
+      {
+        "given": "Megha",
+        "family": "Hooli",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          15
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          26
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          5,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "European Journal of Computer Science and Information Technology"
+    ],
+    "volume": "13",
+    "issue": "44",
+    "page": "104-112",
+    "article-number": null,
+    "DOI": "10.37745/ejcsit.2013/vol13n44104112",
+    "URL": "https://doi.org/10.37745/ejcsit.2013/vol13n44104112"
+  },
+  "10.3390/su12145679": {
+    "title": [
+      "Applying Comparable Sales Method to the Automated Estimation of Real Estate Prices"
+    ],
+    "author": [
+      {
+        "given": "Yunjong",
+        "family": "Kim",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Financial Supervisory Service, 38, Yeoui-daero, Yeongdeungpo-gu, Seoul 07321, Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8704-3630",
+        "authenticated-orcid": false,
+        "given": "Seungwoo",
+        "family": "Choi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Industrial &amp; Systems Engineering, Korea Advanced Institute of Science and Technology, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1784-8983",
+        "authenticated-orcid": false,
+        "given": "Mun Yong",
+        "family": "Yi",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Industrial &amp; Systems Engineering, Korea Advanced Institute of Science and Technology, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Korea"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          15
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          7,
+          15
+        ]
+      ]
+    },
+    "container-title": [
+      "Sustainability"
+    ],
+    "volume": "12",
+    "issue": "14",
+    "page": "5679",
+    "article-number": null,
+    "DOI": "10.3390/su12145679",
+    "URL": "https://doi.org/10.3390/su12145679"
+  },
+  "10.1177/14614448251338297": {
+    "title": [
+      "Urban futures in the mirror of technology? The politics of urban digital twins"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1231-9433",
+        "authenticated-orcid": false,
+        "given": "Sophia",
+        "family": "Knopf",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technical University Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-8660-3181",
+        "authenticated-orcid": false,
+        "given": "Hadrien",
+        "family": "Macq",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Liège, Belgium"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3080-8599",
+        "authenticated-orcid": false,
+        "given": "Alexander",
+        "family": "Wentland",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technical University Munich, Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          2
+        ]
+      ]
+    },
+    "container-title": [
+      "New Media &amp; Society"
+    ],
+    "volume": "27",
+    "issue": "8",
+    "page": "4385-4401",
+    "article-number": null,
+    "DOI": "10.1177/14614448251338297",
+    "URL": "https://doi.org/10.1177/14614448251338297"
+  },
+  "10.1145/153571.255960": {
+    "title": [
+      "Participatory design"
+    ],
+    "author": [
+      {
+        "given": "Michael J.",
+        "family": "Muller",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "U S WEST Advanced Technologies, 4001 Discovery Drive/Suite 280, Boulder, CO"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sarah",
+        "family": "Kuhn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Policy and Planning, University of Massachusetts at Lowell, PA 213, Lowell, MA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          1993,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          1993,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          1993,
+          6
+        ]
+      ]
+    },
+    "container-title": [
+      "Communications of the ACM"
+    ],
+    "volume": "36",
+    "issue": "6",
+    "page": "24-28",
+    "article-number": null,
+    "DOI": "10.1145/153571.255960",
+    "URL": "https://doi.org/10.1145/153571.255960"
+  },
+  "10.3390/rs10101522": {
+    "title": [
+      "Machine Learning-Based Slum Mapping in Support of Slum Upgrading Programs: The Case of Bandung City, Indonesia"
+    ],
+    "author": [
+      {
+        "given": "Gina",
+        "family": "Leonita",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Faculty of Geo-Information Science &amp; Earth Observation (ITC), University of Twente, 7514 AE Enschede, The Netherlands"
+          },
+          {
+            "name": "Ministry of Public Works and Housing of Indonesia, Jalan Pattimura No.20, Jakarta Selatan 12110, DKI Jakarta, Indonesia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-1915-2069",
+        "authenticated-orcid": false,
+        "given": "Monika",
+        "family": "Kuffer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Geo-Information Science &amp; Earth Observation (ITC), University of Twente, 7514 AE Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5243-4431",
+        "authenticated-orcid": false,
+        "given": "Richard",
+        "family": "Sliuzas",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Geo-Information Science &amp; Earth Observation (ITC), University of Twente, 7514 AE Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3742-5398",
+        "authenticated-orcid": false,
+        "given": "Claudio",
+        "family": "Persello",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Faculty of Geo-Information Science &amp; Earth Observation (ITC), University of Twente, 7514 AE Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          22
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2018,
+          9,
+          22
+        ]
+      ]
+    },
+    "container-title": [
+      "Remote Sensing"
+    ],
+    "volume": "10",
+    "issue": "10",
+    "page": "1522",
+    "article-number": null,
+    "DOI": "10.3390/rs10101522",
+    "URL": "https://doi.org/10.3390/rs10101522"
+  },
+  "10.5194/essd-18-5969-2026": {
+    "title": [
+      "Geospatial micro-estimates of slum populations  in 129 Global South countries using  machine learning and public data"
+    ],
+    "author": [
+      {
+        "given": "Dan",
+        "family": "Li",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7784-7942",
+        "authenticated-orcid": false,
+        "given": "Laixiang",
+        "family": "Sun",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "id": [
+              {
+                "id": "https://ror.org/047s2c258",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "University of Maryland, College Park (College Park, United States of America)"
+          },
+          {
+            "id": [
+              {
+                "id": "https://ror.org/04vrxay34",
+                "id-type": "ROR",
+                "asserted-by": "publisher"
+              }
+            ],
+            "name": "SOAS University of London (London, United Kingdom)"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          },
+          {
+            "role": "corresponding-author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Yang",
+        "family": "Yu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Peipei",
+        "family": "Tian",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          8,
+          25
+        ]
+      ]
+    },
+    "container-title": [
+      "Earth System Science Data"
+    ],
+    "volume": "18",
+    "issue": "8",
+    "page": "5969-5993",
+    "article-number": null,
+    "DOI": "10.5194/essd-18-5969-2026",
+    "URL": "https://doi.org/10.5194/essd-18-5969-2026"
+  },
+  "10.1177/23998083231204689": {
+    "title": [
+      "Explainable spatially explicit geospatial artificial intelligence in urban analytics"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5443-5910",
+        "authenticated-orcid": false,
+        "given": "Pengyuan",
+        "family": "Liu",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "National University of Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2059-4171",
+        "authenticated-orcid": false,
+        "given": "Yan",
+        "family": "Zhang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National University of Singapore, Singapore"
+          },
+          {
+            "name": "Wuhan University, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6229-7749",
+        "authenticated-orcid": false,
+        "given": "Filip",
+        "family": "Biljecki",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "National University of Singapore, Singapore"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          29
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          6
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          9,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "51",
+    "issue": "5",
+    "page": "1104-1123",
+    "article-number": null,
+    "DOI": "10.1177/23998083231204689",
+    "URL": "https://doi.org/10.1177/23998083231204689"
+  },
+  "10.1016/j.jag.2025.104746": {
+    "title": [
+      "Urban digital twins for citizen-centric planning: A systematic review of built environment perception and public participation"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-7112-3759",
+        "authenticated-orcid": false,
+        "given": "Junjie",
+        "family": "Luo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5443-5910",
+        "authenticated-orcid": false,
+        "given": "Pengyuan",
+        "family": "Liu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xinya",
+        "family": "Kong",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Junru",
+        "family": "Shen",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qiaoqiao",
+        "family": "Wu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Da",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          9
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "International Journal of Applied Earth Observation and Geoinformation"
+    ],
+    "volume": "143",
+    "issue": null,
+    "page": "104746",
+    "article-number": "104746",
+    "DOI": "10.1016/j.jag.2025.104746",
+    "URL": "https://doi.org/10.1016/j.jag.2025.104746"
+  },
+  "10.1177/23998083241286030": {
+    "title": [
+      "Digital twin for supporting decision-making and stakeholder collaboration in urban decarbonization processes. A participatory development in Gothenburg"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0006-8906-5311",
+        "authenticated-orcid": false,
+        "given": "Daniela",
+        "family": "Maiullari",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Delft University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2094-4482",
+        "authenticated-orcid": false,
+        "given": "Claudio",
+        "family": "Nageli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Sinom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-2285-3947",
+        "authenticated-orcid": false,
+        "given": "Andreas",
+        "family": "Rudena",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Paramountric"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0001-8650-3789",
+        "authenticated-orcid": false,
+        "given": "Åsa",
+        "family": "Isacson",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chalmers University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-5667-3293",
+        "authenticated-orcid": false,
+        "given": "Giliam",
+        "family": "Dokter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chalmers University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ilse",
+        "family": "Ellenbroek",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "AMS Institute"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5809-9400",
+        "authenticated-orcid": false,
+        "given": "Holger",
+        "family": "Wallbaum",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chalmers University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-9031-4323",
+        "authenticated-orcid": false,
+        "given": "Liane",
+        "family": "Thuvander",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Chalmers University of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          1
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          10,
+          1
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "53",
+    "issue": "4",
+    "page": "831-855",
+    "article-number": null,
+    "DOI": "10.1177/23998083241286030",
+    "URL": "https://doi.org/10.1177/23998083241286030"
+  },
+  "10.3390/smartcities7010025": {
+    "title": [
+      "Urban Design and Planning Participation in the Digital Age: Lessons from an Experimental Online Platform"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-3654-3835",
+        "authenticated-orcid": false,
+        "given": "Stephen",
+        "family": "Marshall",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Bartlett School of Planning, University College London, London WC1H 0NN, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0006-3464-9993",
+        "authenticated-orcid": false,
+        "given": "David",
+        "family": "Farndon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bartlett School of Planning, University College London, London WC1H 0NN, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8403-8716",
+        "authenticated-orcid": false,
+        "given": "Andrew",
+        "family": "Hudson-Smith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Centre for Advanced Spatial Analysis, University College London, London W1T 4TJ, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0009-0005-1977-7455",
+        "authenticated-orcid": false,
+        "given": "Athanasios",
+        "family": "Kourniotis",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bartlett School of Planning, University College London, London WC1H 0NN, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1833-5047",
+        "authenticated-orcid": false,
+        "given": "Nikos",
+        "family": "Karadimitriou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Bartlett School of Planning, University College London, London WC1H 0NN, UK"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "Smart Cities"
+    ],
+    "volume": "7",
+    "issue": "1",
+    "page": "615-632",
+    "article-number": null,
+    "DOI": "10.3390/smartcities7010025",
+    "URL": "https://doi.org/10.3390/smartcities7010025"
+  },
+  "10.3390/land11112100": {
+    "title": [
+      "Housing Price Prediction Using Machine Learning Algorithms in COVID-19 Times"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5581-5456",
+        "authenticated-orcid": false,
+        "given": "Raul-Tomas",
+        "family": "Mora-Garcia",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Building Sciences and Urbanism Department, University of Alicante, 03690 San Vicente del Raspeig, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3724-8267",
+        "authenticated-orcid": false,
+        "given": "Maria-Francisca",
+        "family": "Cespedes-Lopez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Building Sciences and Urbanism Department, University of Alicante, 03690 San Vicente del Raspeig, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-1045-3671",
+        "authenticated-orcid": false,
+        "given": "V. Raul",
+        "family": "Perez-Sanchez",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Building Sciences and Urbanism Department, University of Alicante, 03690 San Vicente del Raspeig, Spain"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          21
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          21
+        ]
+      ]
+    },
+    "container-title": [
+      "Land"
+    ],
+    "volume": "11",
+    "issue": "11",
+    "page": "2100",
+    "article-number": null,
+    "DOI": "10.3390/land11112100",
+    "URL": "https://doi.org/10.3390/land11112100"
+  },
+  "10.3389/frvir.2022.1062336": {
+    "title": [
+      "Digital common(s): the role of digital gamification in participatory design for the planning of high-density housing estates"
+    ],
+    "author": [
+      {
+        "given": "Provides",
+        "family": "Ng",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yuechun",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Shutong",
+        "family": "Zhu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Bingge",
+        "family": "Xu",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jeroen",
+        "family": "van Ameijde",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          1,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "Frontiers in Virtual Reality"
+    ],
+    "volume": "3",
+    "issue": null,
+    "page": null,
+    "article-number": "1062336",
+    "DOI": "10.3389/frvir.2022.1062336",
+    "URL": "https://doi.org/10.3389/frvir.2022.1062336"
+  },
+  "10.1080/10630732.2020.1798177": {
+    "title": [
+      "A Socio-Technical Perspective on Urban Analytics: The Case of City-Scale Digital Twins"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1804-0601",
+        "authenticated-orcid": false,
+        "given": "T.",
+        "family": "Nochta",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Engineering, University of Cambridge, Cambridge, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "L.",
+        "family": "Wan",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Land Economy, University of Cambridge, Cambridge, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-4777-0438",
+        "authenticated-orcid": false,
+        "given": "J. M.",
+        "family": "Schooling",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Engineering, University of Cambridge, Cambridge, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "A. K.",
+        "family": "Parlikad",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Engineering, University of Cambridge, Cambridge, United Kingdom"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          4,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          9,
+          14
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Urban Technology"
+    ],
+    "volume": "28",
+    "issue": "1-2",
+    "page": "263-287",
+    "article-number": null,
+    "DOI": "10.1080/10630732.2020.1798177",
+    "URL": "https://doi.org/10.1080/10630732.2020.1798177"
+  },
+  "10.1177/23998083241305695": {
+    "title": [
+      "Participation matters: The social construction of digital twins for cities"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0003-1804-0601",
+        "authenticated-orcid": false,
+        "given": "Timea",
+        "family": "Nochta",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Birmingham"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Kwadwo",
+        "family": "Oti-Sarpong",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Cambridge"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          12,
+          8
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "53",
+    "issue": "4",
+    "page": "765-777",
+    "article-number": null,
+    "DOI": "10.1177/23998083241305695",
+    "URL": "https://doi.org/10.1177/23998083241305695"
+  },
+  "10.1177/0739456x251360632": {
+    "title": [
+      "Digital Twin or Digital Kin: Misunderstandings and Myths about Urban Simulation, and Directions for Change"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-2223-7864",
+        "authenticated-orcid": false,
+        "given": "Will B.",
+        "family": "Payne",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Rutgers University, New Brunswick, NJ, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Emma",
+        "family": "Fraser",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley, CA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-3885-7339",
+        "authenticated-orcid": false,
+        "given": "Clancy",
+        "family": "Wilmott",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of California, Berkeley, CA, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          12
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          7,
+          30
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Planning Education and Research"
+    ],
+    "volume": "45",
+    "issue": "4",
+    "page": "733-742",
+    "article-number": null,
+    "DOI": "10.1177/0739456x251360632",
+    "URL": "https://doi.org/10.1177/0739456x251360632"
+  },
+  "10.3390/smartcities8010023": {
+    "title": [
+      "Integrating Social Dimensions into Urban Digital Twins: A Review and Proposed Framework for Social Digital Twins"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-8860-9667",
+        "authenticated-orcid": false,
+        "given": "Saleh",
+        "family": "Qanazi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Civil and Architectural Engineering Department, An-Najah National University, Nablus P400, Palestine"
+          },
+          {
+            "name": "ULR 4477—TVES—Territoires Villes Environnement & Société, University of Lille, University of Littoral Côte d’Opale, F-59000 Lille, France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8888-4696",
+        "authenticated-orcid": false,
+        "given": "Eric",
+        "family": "Leclerc",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "ULR 4477—TVES—Territoires Villes Environnement & Société, University of Lille, University of Littoral Côte d’Opale, F-59000 Lille, France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-6940-0948",
+        "authenticated-orcid": false,
+        "given": "Pauline",
+        "family": "Bosredon",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "UMR 6590 ESO—Espaces et Sociétés, Université de Caen Normandie, F-14000 Caen, France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          5
+        ]
+      ]
+    },
+    "container-title": [
+      "Smart Cities"
+    ],
+    "volume": "8",
+    "issue": "1",
+    "page": "23",
+    "article-number": null,
+    "DOI": "10.3390/smartcities8010023",
+    "URL": "https://doi.org/10.3390/smartcities8010023"
+  },
+  "10.1145/2939672.2939778": {
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  "10.1111/ecog.02881": {
+    "title": [
+      "Cross‐validation strategies for data with temporal, spatial, hierarchical, or phylogenetic structure"
+    ],
+    "author": [
+      {
+        "given": "David R.",
+        "family": "Roberts",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Volker",
+        "family": "Bahn",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Wright State Univ. Dayton OH USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Simone",
+        "family": "Ciuti",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mark S.",
+        "family": "Boyce",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biological Sciences Univ. of Alberta Edmonton AB Canada"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jane",
+        "family": "Elith",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Gurutzeta",
+        "family": "Guillera‐Arroita",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Severin",
+        "family": "Hauenstein",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "José J.",
+        "family": "Lahoz‐Monfort",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Boris",
+        "family": "Schröder",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Inst. of Geoecology, Div. of Landscape Ecology and Environmental Systems Analysis, Technische Univ. Braunschweig, Braunschweig, Germany, and: Berlin‐Brandenburg Inst. of Advanced Biodiversity Research (BBIB) Berlin Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wilfried",
+        "family": "Thuiller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Lab. d’Écologie Alpine, Univ. Joseph Fourier Grenoble France"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David I.",
+        "family": "Warton",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Mathematics and Statistics and Evolution and Ecology Research Centre, The Univ. of New South Wales Sydney Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Brendan A.",
+        "family": "Wintle",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of BioSciences, Univ. of Melbourne Melbourne Australia"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Florian",
+        "family": "Hartig",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          },
+          {
+            "name": "Theoretical Ecology, Univ. of Regensburg Regensburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Carsten F.",
+        "family": "Dormann",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Dept of Biometry and Environmental System Analysis Univ. of Freiburg Freiburg Germany"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2017,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2017,
+          3,
+          3
+        ]
+      ]
+    },
+    "container-title": [
+      "Ecography"
+    ],
+    "volume": "40",
+    "issue": "8",
+    "page": "913-929",
+    "article-number": null,
+    "DOI": "10.1111/ecog.02881",
+    "URL": "https://doi.org/10.1111/ecog.02881"
+  },
+  "10.1007/s10676-024-09812-3": {
+    "title": [
+      "Urban Digital Twins and metaverses towards city multiplicities: uniting or dividing urban experiences?"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-9389-6616",
+        "authenticated-orcid": false,
+        "given": "Javier",
+        "family": "Argota Sánchez-Vaquerizo",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          23
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          11,
+          23
+        ]
+      ]
+    },
+    "container-title": [
+      "Ethics and Information Technology"
+    ],
+    "volume": "27",
+    "issue": "1",
+    "page": null,
+    "article-number": "4",
+    "DOI": "10.1007/s10676-024-09812-3",
+    "URL": "https://doi.org/10.1007/s10676-024-09812-3"
+  },
+  "10.1016/j.sftr.2026.101902": {
+    "title": [
+      "Digital twin–enabled urban systems for sustainable and resilient futures: A global urban science perspective"
+    ],
+    "author": [
+      {
+        "given": "Khairy",
+        "family": "Sayed",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ahmed G.",
+        "family": "Abokhalil",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mahmoud",
+        "family": "Aref",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Mishari Metab",
+        "family": "Almalki",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0308-3038",
+        "authenticated-orcid": false,
+        "given": "Mahmoud A.",
+        "family": "Mossa",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          6
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "Sustainable Futures"
+    ],
+    "volume": "11",
+    "issue": null,
+    "page": "101902",
+    "article-number": "101902",
+    "DOI": "10.1016/j.sftr.2026.101902",
+    "URL": "https://doi.org/10.1016/j.sftr.2026.101902"
+  },
+  "10.1177/14614448251338290": {
+    "title": [
+      "There is no such thing as a digital twin: Deconstructing sociotechnical imaginaries of digital twin technologies in Dutch urban governance"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-4161-9006",
+        "authenticated-orcid": false,
+        "given": "Sofie",
+        "family": "de Wilde de Ligny",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Utrecht University, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7322-0018",
+        "authenticated-orcid": false,
+        "given": "Sharon",
+        "family": "van Geldere",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Leiden University, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0212-7016",
+        "authenticated-orcid": false,
+        "given": "Mirko Tobias",
+        "family": "Schäfer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utrecht University, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8532-7894",
+        "authenticated-orcid": false,
+        "given": "Albert",
+        "family": "Meijer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Utrecht University, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          2
+        ]
+      ]
+    },
+    "container-title": [
+      "New Media &amp; Society"
+    ],
+    "volume": "27",
+    "issue": "8",
+    "page": "4420-4442",
+    "article-number": null,
+    "DOI": "10.1177/14614448251338290",
+    "URL": "https://doi.org/10.1177/14614448251338290"
+  },
+  "10.3390/ijgi9110685": {
+    "title": [
+      "Worldwide Detection of Informal Settlements via Topological Analysis of Crowdsourced Digital Maps"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8450-7025",
+        "authenticated-orcid": false,
+        "given": "Satej",
+        "family": "Soman",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Mansueto Institute for Urban Innovation, University of Chicago, Chicago, IL 60637, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-7502-4125",
+        "authenticated-orcid": false,
+        "given": "Anni",
+        "family": "Beukes",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mansueto Institute for Urban Innovation, University of Chicago, Chicago, IL 60637, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-5400-3272",
+        "authenticated-orcid": false,
+        "given": "Cooper",
+        "family": "Nederhood",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mansueto Institute for Urban Innovation, University of Chicago, Chicago, IL 60637, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-0677-1864",
+        "authenticated-orcid": false,
+        "given": "Nicholas",
+        "family": "Marchio",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mansueto Institute for Urban Innovation, University of Chicago, Chicago, IL 60637, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6176-5160",
+        "authenticated-orcid": false,
+        "given": "Luís",
+        "family": "Bettencourt",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Mansueto Institute for Urban Innovation, University of Chicago, Chicago, IL 60637, USA"
+          },
+          {
+            "name": "Department of Ecology and Evolution, University of Chicago, Chicago, IL 60637, USA"
+          },
+          {
+            "name": "Department of Sociology, University of Chicago, Chicago, IL 60637, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          16
+        ]
+      ]
+    },
+    "published-print": null,
+    "published-online": {
+      "date-parts": [
+        [
+          2020,
+          11,
+          16
+        ]
+      ]
+    },
+    "container-title": [
+      "ISPRS International Journal of Geo-Information"
+    ],
+    "volume": "9",
+    "issue": "11",
+    "page": "685",
+    "article-number": null,
+    "DOI": "10.3390/ijgi9110685",
+    "URL": "https://doi.org/10.3390/ijgi9110685"
+  },
+  "10.1080/09654313.2026.2668560": {
+    "title": [
+      "Using digital twins for co-designing cities: a review of digital participatory approaches"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0009-0009-8649-5692",
+        "authenticated-orcid": false,
+        "given": "Frida",
+        "family": "Thuresson",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Civil, Environmental and Natural Resources Engineering (CENE), Luleå University of Technology, Luleå",
+            "place": [
+              "Sweden"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-3438-1182",
+        "authenticated-orcid": false,
+        "given": "Kevin",
+        "family": "Lau",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil, Environmental and Natural Resources Engineering (CENE), Luleå University of Technology, Luleå",
+            "place": [
+              "Sweden"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-6831-8857",
+        "authenticated-orcid": false,
+        "given": "Agatino",
+        "family": "Rizzo",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Civil, Environmental and Natural Resources Engineering (CENE), Luleå University of Technology, Luleå",
+            "place": [
+              "Sweden"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          9,
+          2
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          13
+        ]
+      ]
+    },
+    "container-title": [
+      "European Planning Studies"
+    ],
+    "volume": "34",
+    "issue": "9",
+    "page": "1856-1878",
+    "article-number": null,
+    "DOI": "10.1080/09654313.2026.2668560",
+    "URL": "https://doi.org/10.1080/09654313.2026.2668560"
+  },
+  "10.1080/22797254.2023.2214690": {
+    "title": [
+      "Capturing deprived areas using unsupervised machine learning and open data: a case study in São Paulo, Brazil"
+    ],
+    "author": [
+      {
+        "given": "Lorraine",
+        "family": "Trento Oliveira",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Urban and Regional Planning and Geo-Information Management, ITC, University of Twente, Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Monika",
+        "family": "Kuffer",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urban and Regional Planning and Geo-Information Management, ITC, University of Twente, Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nina",
+        "family": "Schwarz",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urban and Regional Planning and Geo-Information Management, ITC, University of Twente, Enschede, The Netherlands"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Julio C.",
+        "family": "Pedrassoli",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Urban and Regional Planning and Geo-Information Management, Federal University of Bahia, Salvador, Brazil"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          19
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          12,
+          31
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2023,
+          5,
+          19
+        ]
+      ]
+    },
+    "container-title": [
+      "European Journal of Remote Sensing"
+    ],
+    "volume": "56",
+    "issue": "1",
+    "page": null,
+    "article-number": "2214690",
+    "DOI": "10.1080/22797254.2023.2214690",
+    "URL": "https://doi.org/10.1080/22797254.2023.2214690"
+  },
+  "10.1016/j.cities.2020.103064": {
+    "title": [
+      "A digital twin smart city for citizen feedback"
+    ],
+    "author": [
+      {
+        "given": "Gary",
+        "family": "White",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anna",
+        "family": "Zink",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lara",
+        "family": "Codecá",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Siobhán",
+        "family": "Clarke",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2021,
+          3
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "Cities"
+    ],
+    "volume": "110",
+    "issue": null,
+    "page": "103064",
+    "article-number": "103064",
+    "DOI": "10.1016/j.cities.2020.103064",
+    "URL": "https://doi.org/10.1016/j.cities.2020.103064"
+  },
+  "10.1007/978-3-642-29044-2": {
+    "title": [
+      "Experimentation in Software Engineering"
+    ],
+    "author": [
+      {
+        "given": "Claes",
+        "family": "Wohlin",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Per",
+        "family": "Runeson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Martin",
+        "family": "Höst",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Magnus C.",
+        "family": "Ohlsson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Björn",
+        "family": "Regnell",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anders",
+        "family": "Wesslén",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [],
+    "volume": null,
+    "issue": null,
+    "page": null,
+    "article-number": null,
+    "DOI": "10.1007/978-3-642-29044-2",
+    "URL": "https://doi.org/10.1007/978-3-642-29044-2"
+  },
+  "10.1177/08854122221137861": {
+    "title": [
+      "Developing Human-Centered Urban Digital Twins for Community Infrastructure Resilience: A Research Agenda"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-8838-9476",
+        "authenticated-orcid": false,
+        "given": "Xinyue",
+        "family": "Ye",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Jiaxin",
+        "family": "Du",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yu",
+        "family": "Han",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Galen",
+        "family": "Newman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "David",
+        "family": "Retchless",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Marine and Coastal Environmental Science, Texas A&M University at Galveston, Galveston, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Lei",
+        "family": "Zou",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Geography, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Youngjib",
+        "family": "Ham",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Construction Science, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Zhenhang",
+        "family": "Cai",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Department of Landscape Architecture and Urban Planning, Texas A&M University, College Station, TX, USA"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          29
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          5
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Planning Literature"
+    ],
+    "volume": "38",
+    "issue": "2",
+    "page": "187-199",
+    "article-number": null,
+    "DOI": "10.1177/08854122221137861",
+    "URL": "https://doi.org/10.1177/08854122221137861"
+  },
+  "10.1016/j.landusepol.2020.104889": {
+    "title": [
+      "A mass appraisal assessment study using machine learning based on multiple regression and random forest"
+    ],
+    "author": [
+      {
+        "given": "Seckin",
+        "family": "Yilmazer",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Sultan",
+        "family": "Kocaman",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2020,
+          12
+        ]
+      ]
+    },
+    "published-online": null,
+    "container-title": [
+      "Land Use Policy"
+    ],
+    "volume": "99",
+    "issue": null,
+    "page": "104889",
+    "article-number": "104889",
+    "DOI": "10.1016/j.landusepol.2020.104889",
+    "URL": "https://doi.org/10.1016/j.landusepol.2020.104889"
+  },
+  "10.1177/23998083221137079": {
+    "title": [
+      "<b>The Social Digital Twin:The Social Turn in the Field of Smart Cities </b>"
+    ],
+    "author": [
+      {
+        "given": "Batel",
+        "family": "Yossef Ravid",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technion Israel Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meirav",
+        "family": "Aharon-Gutman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technion Israel Institute of Technology"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2023,
+          7
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2022,
+          11,
+          11
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "50",
+    "issue": "6",
+    "page": "1455-1470",
+    "article-number": null,
+    "DOI": "10.1177/23998083221137079",
+    "URL": "https://doi.org/10.1177/23998083221137079"
+  },
+  "10.1080/15710882.2024.2339496": {
+    "title": [
+      "Co-creating solutions with social housing users: a Living lab case"
+    ],
+    "author": [
+      {
+        "given": "Marcelle Engler",
+        "family": "Bridi",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "University of Campinas",
+            "place": [
+              "Campinas, Brazil"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Rodrigo",
+        "family": "Argenton Freire",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Universidade Federal de Uberlândia",
+            "place": [
+              "Uberlandia, Brazil"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Doris",
+        "family": "Catharine Cornelie Knatz Kowaltowski",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Campinas",
+            "place": [
+              "Campinas, Brazil"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Ariovaldo Denis",
+        "family": "Granja",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "University of Campinas",
+            "place": [
+              "Campinas, Brazil"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          9
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2024,
+          10
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2024,
+          4,
+          9
+        ]
+      ]
+    },
+    "container-title": [
+      "CoDesign"
+    ],
+    "volume": "20",
+    "issue": "4",
+    "page": "645-665",
+    "article-number": null,
+    "DOI": "10.1080/15710882.2024.2339496",
+    "URL": "https://doi.org/10.1080/15710882.2024.2339496"
+  },
+  "10.1177/23998083251323671": {
+    "title": [
+      "Enhancing digital twin technology with community-led, science-driven participatory modeling: A case in green infrastructure planning"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-4111-3357",
+        "authenticated-orcid": false,
+        "given": "Moira L",
+        "family": "Zellner",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Dean",
+        "family": "Massey",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Michelle",
+        "family": "Laboy",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel T",
+        "family": "O’Brien",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Amy",
+        "family": "Mueller",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Daniel",
+        "family": "Engelberg",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Northeastern University"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          19
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          2,
+          19
+        ]
+      ]
+    },
+    "container-title": [
+      "Environment and Planning B: Urban Analytics and City Science"
+    ],
+    "volume": "53",
+    "issue": "4",
+    "page": "872-896",
+    "article-number": null,
+    "DOI": "10.1177/23998083251323671",
+    "URL": "https://doi.org/10.1177/23998083251323671"
+  },
+  "10.1080/10630732.2026.2634808": {
+    "title": [
+      "Smarter Participation: Co-Governance Protocol Using Urban Digital Twin and Design Thinking"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-6092-3235",
+        "authenticated-orcid": false,
+        "given": "Batel Yossef",
+        "family": "Ravid",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Technion Israel Institute of Technology Faculty of Architecture and Town Planning",
+            "place": [
+              "Israel"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Anne",
+        "family": "Axel",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technion Israel Institute of Technology Faculty of Architecture and Town Planning",
+            "place": [
+              "Israel"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Meirav Aharon",
+        "family": "Gutman",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Technion Israel Institute of Technology Faculty of Architecture and Town Planning",
+            "place": [
+              "Israel"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          16
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          5,
+          27
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          16
+        ]
+      ]
+    },
+    "container-title": [
+      "Journal of Urban Technology"
+    ],
+    "volume": "33",
+    "issue": "3",
+    "page": "125-148",
+    "article-number": null,
+    "DOI": "10.1080/10630732.2026.2634808",
+    "URL": "https://doi.org/10.1080/10630732.2026.2634808"
+  },
+  "10.1080/25741292.2026.2617723": {
+    "title": [
+      "Can co-design deal with policy disputes?"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0001-7690-5592",
+        "authenticated-orcid": false,
+        "given": "Nicholas",
+        "family": "Spencer",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "School of Design, Arts and Creative Industries, Northumbria University",
+            "place": [
+              "Newcastle Upon Tyne, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Joyce",
+        "family": "Yee",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Design, Arts and Creative Industries, Northumbria University",
+            "place": [
+              "Newcastle Upon Tyne, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      },
+      {
+        "given": "Margaret A.",
+        "family": "Defeyter",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "School of Communities and Education, Northumbria University",
+            "place": [
+              "Newcastle Upon Tyne, UK"
+            ]
+          }
+        ],
+        "role": [
+          {
+            "role": "author",
+            "vocabulary": "crossref"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2026,
+          4,
+          3
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2026,
+          1,
+          29
+        ]
+      ]
+    },
+    "container-title": [
+      "Policy Design and Practice"
+    ],
+    "volume": "9",
+    "issue": "2",
+    "page": "157-170",
+    "article-number": null,
+    "DOI": "10.1080/25741292.2026.2617723",
+    "URL": "https://doi.org/10.1080/25741292.2026.2617723"
+  },
+  "10.1177/14614448251338280": {
+    "title": [
+      "Urban digital twins: Digital twins for participatory steering"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-5294-4375",
+        "authenticated-orcid": false,
+        "given": "Oliver",
+        "family": "Dawkins",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Maynooth University, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4458-7299",
+        "authenticated-orcid": false,
+        "given": "Rob",
+        "family": "Kitchin",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Maynooth University, Ireland"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-print": {
+      "date-parts": [
+        [
+          2025,
+          8
+        ]
+      ]
+    },
+    "published-online": {
+      "date-parts": [
+        [
+          2025,
+          8,
+          2
+        ]
+      ]
+    },
+    "container-title": [
+      "New Media &amp; Society"
+    ],
+    "volume": "27",
+    "issue": "8",
+    "page": "4402-4419",
+    "article-number": null,
+    "DOI": "10.1177/14614448251338280",
+    "URL": "https://doi.org/10.1177/14614448251338280"
+  }
+}

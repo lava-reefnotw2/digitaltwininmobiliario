@@ -1,0 +1,24 @@
+﻿variable,procedencia,papel
+manzana_id,Identificador o metadato,Excluida
+distrito,Identificador o metadato,Excluida
+ciudad,Identificador o metadato,Excluida
+area_lote_m2,Simulada; no medición territorial,Predictor
+densidad_hab_ha,Mixta: población / área simulada,Predictor
+distancia_via_principal_m,Simulada; no medición territorial,Predictor
+distancia_salud_m,Simulada; no medición territorial,Predictor
+distancia_escuela_m,Simulada; no medición territorial,Predictor
+pendiente_terreno_pct,Simulada; no medición territorial,Predictor
+indice_vulnerabilidad_cenepred,Simulada; no medición territorial,Predictor
+area_verde_per_capita_m2,Simulada; no medición territorial,Predictor
+estrato_socioeconomico,Simulada; no medición territorial,Predictor
+material_paredes,Simulada; no medición territorial,Predictor
+antiguedad_construccion_anios,Simulada; no medición territorial,Predictor
+valor_suelo_usd_m2,Simulada; no medición territorial,Objetivo sintético
+viabilidad_vivienda_pct,Simulada; no medición territorial,Excluida
+riesgo_deslizamiento,Simulada; no medición territorial,Excluida
+viviendas_inei,Conteo conservado de reporte.xlsx,Predictor
+hogares_inei,Conteo conservado de reporte.xlsx,Predictor
+poblacion_inei,Conteo conservado de reporte.xlsx,Predictor
+area_manzana_m2_simulada,Simulada a partir del conteo de viviendas y supuestos,Predictor
+anio_censo,Identificador o metadato,Excluida
+tipo_datos,Identificador o metadato,Excluida

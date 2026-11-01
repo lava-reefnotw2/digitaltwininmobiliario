@@ -1,0 +1,108 @@
+{
+  "modelo": "CatBoost",
+  "n_prueba": 1606,
+  "sha256_predicciones": "031b4bb1e90e09b18c6ab3fbaaf65c5d5a85f7924f2e27c5d6dd0d40314da690",
+  "metricas": {
+    "rmse": 91.56256236140142,
+    "mae": 68.48924400787351,
+    "r2": 0.7392362594688906
+  },
+  "imagenes": [
+    {
+      "archivo": "Figura_3_residuos_vs_prediccion.png",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "ae2778cce449ce180bbc886190a9d0260ac1e8c6045bef70e7fce604f74cd53c"
+    },
+    {
+      "archivo": "Figura_3_residuos_vs_prediccion.tiff",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "sha256": "e18b5ae77cb708d03e539db88d4428bef5ad02eb833c490bd9bba89d5b723ed8"
+    },
+    {
+      "archivo": "Figura_4_distribucion_residuos.png",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "a6bac3d13e21eb5ad42f1b2d7df9672edc9c63170b1761e6a915879100755d89"
+    },
+    {
+      "archivo": "Figura_4_distribucion_residuos.tiff",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "sha256": "15de94d8ea5306581c256cb8cd23e57399a5375606626fe7ab932bf155833c40"
+    },
+    {
+      "archivo": "Figura_5_cuantil_cuantil_residuos.png",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "726f07d206b679c3db4f114ae2f01747ed9ddcc7b1e096de2a38bb779ecdc1c3"
+    },
+    {
+      "archivo": "Figura_5_cuantil_cuantil_residuos.tiff",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "sha256": "3184ae7b4c3818aa9626bfeec3480352f290342bfee394633adcb33d253c0e5e"
+    },
+    {
+      "archivo": "Figura_6_calibracion_por_deciles.png",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "sha256": "f1be8d1b5e5e50f63d907547512901640fcf2f9109485691ef9349bdef86d8c7"
+    },
+    {
+      "archivo": "Figura_6_calibracion_por_deciles.tiff",
+      "pixeles": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        600.0,
+        600.0
+      ],
+      "sha256": "d80d278a766a6d2e49c774748e5145688f9f3dd1809f94f7e4f6a33a48a8f065"
+    }
+  ]
+}

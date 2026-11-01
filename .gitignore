@@ -25,3 +25,21 @@ yarn-error.log*
 .env.test.local
 .env.production.local
 !.env.example
+
+# Local Python verification environment
+.venv/
+.venv*/
+venv/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# ML temporary training artifacts and inspection dumps
+catboost_info/
+**/.matplotlib_cache/
+*.inspect.ndjson
+

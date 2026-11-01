@@ -1,0 +1,32 @@
+[
+  {
+    "id": "th-1",
+    "author": "Junta Vecinal Lomas",
+    "role": "comunidad",
+    "title": "Ubicación del nuevo Parque y Huerto Urbano",
+    "content": "Proponemos ubicar el gran parque en la zona norte donde el suelo es más estable. Además, ayuda a contener los deslizamientos y mejora la temperatura local.",
+    "timestamp": "Hace 2 horas",
+    "votes": 42,
+    "comments": 12
+  },
+  {
+    "id": "th-2",
+    "author": "Urbanista Muni",
+    "role": "municipalidad",
+    "title": "Viabilidad de Vías Principales",
+    "content": "Técnicamente necesitamos concentrar la inversión vial en el eje troncal para garantizar acceso al transporte masivo.",
+    "timestamp": "Hace 5 horas",
+    "votes": 28,
+    "comments": 8
+  },
+  {
+    "id": "th-3",
+    "author": "Colectivo Ambiental",
+    "role": "experto",
+    "title": "Materialidad y Confort Térmico",
+    "content": "Es clave usar arquitectura vernácula (sillar / tierra compactada) en lugar de tanto concreto para evitar la isla de calor.",
+    "timestamp": "Ayer",
+    "votes": 35,
+    "comments": 5
+  }
+]
